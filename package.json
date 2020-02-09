@@ -1,0 +1,24 @@
+{
+    "name": "asteroik",
+    "displayName": "Asteroik",
+    "description": "asteroik",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Asteroik",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Asteroik-color-theme.json"
+            }
+        ]
+    },
+    "publisher": "hollikill",
+    "icon": "icon.png",
+    "repository": "github:hollikill/ateroik"
+}
