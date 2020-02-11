@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "asteroik" extension will be documented in this file.
+All the changes to Asteroik theme
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## v1.0.0
 
-## [Unreleased]
-
-- Initial release
+- Added all

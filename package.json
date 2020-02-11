@@ -1,7 +1,7 @@
 {
-    "name": "asteroik",
+    "name": "Asteroik",
     "displayName": "Asteroik",
-    "description": "asteroik",
+    "description": "Asteroik - a soft space theme",
     "version": "1.1.0",
     "engines": {
         "vscode": "^1.42.0"
