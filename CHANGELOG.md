@@ -2,9 +2,10 @@
 
 All the changes to Asteroik theme
 
-## v1.1.0
+## v1.1.1
 
 - Added most syntax highlighting
+- skipped a version number
 
 ## v1.0.0
 
