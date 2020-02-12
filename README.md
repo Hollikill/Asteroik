@@ -1,8 +1,11 @@
 # Asteroik Color Theme
 
-A simple theme based off of opposing colors to improve your coding ability
+Some color themes based around the Vibrant Colors of space;
 
-## Screenshots
+- Vibrant Mars, a green theme with soft red and purples
+- Dust Belt, a dark gray theme speckled with all the colors of the spectrum
+
+## Vibrant Mars
 
 ![Screenshot 1](https://raw.githubusercontent.com/Hollikill/Asteroik/master/screen1.png)
 

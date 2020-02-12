@@ -12,9 +12,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Asteroik",
+                "label": "Vibrant Mars",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Asteroik-color-theme.json"
+                "path": "./themes/Vibrant-Mars-color-theme.json"
+            },
+            {
+                "label": "Dust Belt",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dust-Belt-color-theme.json"
             }
         ]
     },
