@@ -3,6 +3,14 @@
     "displayName": "Asteroik",
     "description": "Asteroik - a soft space theme",
     "version": "1.1.2",
+    "keywords": [
+        "Space",
+        "Theme",
+        "Asteroid",
+        "Dust Belt",
+        "Vibrant Mars",
+        "hollikill"
+    ],
     "engines": {
         "vscode": "^1.42.0"
     },
